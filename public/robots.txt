@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /thanks
+
+Sitemap: https://evolutions-tcg-production.up.railway.app/sitemap.xml
