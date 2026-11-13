@@ -140,8 +140,8 @@ table.hours{border-collapse:collapse;width:100%;background:var(--card);border:1p
 .nap-name i{font-style:normal;background:var(--holo);-webkit-background-clip:text;background-clip:text;color:transparent}
 .nap div{margin:.3rem auto;max-width:48ch}
 .nap a{color:var(--gold)}
-.studio{margin-top:1.2rem;font-size:.8rem;color:#7684ad}
-.studio a{color:#9fb0e8}
+.footline{margin-top:1.2rem;font-size:.8rem;color:#7684ad}
+.footline a{color:#9fb0e8}
 .tmark{margin-top:.5rem;font-size:.74rem;color:#5f6d99;max-width:64ch;margin-left:auto;margin-right:auto}
 
 @media (max-width:900px){
