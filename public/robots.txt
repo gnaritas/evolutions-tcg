@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /thanks
 
-Sitemap: https://evolutions-tcg-production.up.railway.app/sitemap.xml
+Sitemap: https://evolutions-tcg-demo.up.railway.app/sitemap.xml
